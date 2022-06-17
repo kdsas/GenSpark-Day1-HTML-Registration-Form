@@ -5,8 +5,13 @@ This is a simple example of an HTML with CSS customer registration form with Jav
 What I Learned:
 
 Form design, 
+
 Fonts,
+
 Backgrounds,
+
 Height/ Width, 
+
 JavaScript local storage,
+
 and JavaScript form validation
